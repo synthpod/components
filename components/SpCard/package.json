@@ -1,11 +1,11 @@
 {
   "name": "@synthpod/sp-card",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@synthpod/sp-title": "^0.0.0"
+    "@synthpod/sp-title": "^0.1.0"
   },
   "repository": {
     "type": "git",
