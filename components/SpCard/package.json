@@ -6,5 +6,9 @@
   },
   "dependencies": {
     "@synthpod/sp-title": "^0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:synthpod/components"
   }
 }
